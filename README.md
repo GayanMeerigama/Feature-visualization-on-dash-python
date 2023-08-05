@@ -8,4 +8,4 @@ the quality of the writing.A teacher dashboard depicting the writing characteris
 been analyzed.User-driven interaction: drop down selecting different teacher.Histogram or pointplot summarizing all 100 essays in four 
 differnt graphs (drop-down)
 
-![Feature-visualization](url_of_image)
+![Feature-visualization]([url_of_image](https://github.com/GayanMeerigama/Feature-visualization-on-dash-python/blob/main/Image%208-5-23%20at%209.12%20AM.jpg)https://github.com/GayanMeerigama/Feature-visualization-on-dash-python/blob/main/Image%208-5-23%20at%209.12%20AM.jpg)
